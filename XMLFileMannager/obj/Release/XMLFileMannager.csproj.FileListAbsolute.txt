@@ -1,0 +1,4 @@
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\bin\Release\XMLFileMannager.dll
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\bin\Release\XMLFileMannager.pdb
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\obj\Release\XMLFileMannager.dll
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\obj\Release\XMLFileMannager.pdb

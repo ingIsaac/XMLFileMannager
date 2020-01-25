@@ -1,0 +1,5 @@
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\bin\Debug\XMLFileMannager.dll
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\bin\Debug\XMLFileMannager.pdb
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\obj\Debug\XMLFileMannager.csprojResolveAssemblyReference.cache
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\obj\Debug\XMLFileMannager.dll
+c:\users\server2\documents\visual studio 2015\Projects\XMLFileMannager\XMLFileMannager\obj\Debug\XMLFileMannager.pdb
